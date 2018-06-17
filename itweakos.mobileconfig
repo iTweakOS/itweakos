@@ -32,11 +32,11 @@
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>http://apps.itweakos.cf</string>
+			<string>http://itweakosapp.ga</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This Profile Installs an application called 'iTweakOS'. created using iPCM (by @S0n1c_Dev).</string>
+	<string>See You On The Other Side! | @CaspYT</string>
 	<key>PayloadDisplayName</key>
 	<string>iTweakOS Installer</string>
 	<key>PayloadIdentifier</key>
